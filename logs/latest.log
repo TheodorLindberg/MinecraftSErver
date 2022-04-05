@@ -1,0 +1,198 @@
+[16:41:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:41:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:41:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:41:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:41:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:41:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:41:07] [Worker-Main-4/INFO]: Loaded 7 recipes
+[16:41:08] [Worker-Main-4/INFO]: Loaded 1141 advancements
+[16:41:10] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[16:41:10] [Server thread/INFO]: Loading properties
+[16:41:10] [Server thread/INFO]: Default game type: SURVIVAL
+[16:41:10] [Server thread/INFO]: Generating keypair
+[16:41:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:41:10] [Server thread/INFO]: Using default channel type
+[16:41:11] [Server thread/INFO]: Preparing level "world"
+[16:41:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:41:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:41:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:41:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:41:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:41:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:41:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:41:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:41:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:41:16] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:41:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:41:17] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:41:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:41:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:41:18] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[16:41:19] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[16:41:19] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[16:41:20] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[16:41:20] [Worker-Main-6/INFO]: Preparing spawn area: 9%
+[16:41:21] [Worker-Main-5/INFO]: Preparing spawn area: 15%
+[16:41:21] [Worker-Main-6/INFO]: Preparing spawn area: 42%
+[16:41:22] [Worker-Main-5/INFO]: Preparing spawn area: 53%
+[16:41:22] [Worker-Main-6/INFO]: Preparing spawn area: 78%
+[16:41:25] [Server thread/INFO]: Time elapsed: 13413 ms
+[16:41:25] [Server thread/INFO]: Done (14.001s)! For help, type "help"
+[16:41:32] [User Authenticator #1/INFO]: UUID of player KiwiLord is 8e5233c2-ab1f-4991-85e8-e9831a7f5307
+[16:41:33] [Server thread/INFO]: KiwiLord[/213.103.159.14:58252] logged in with entity id 100 at (408.2575414175489, 57.0, 83.18736711963967)
+[16:41:33] [Server thread/INFO]: KiwiLord joined the game
+[16:41:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[16:41:49] [User Authenticator #2/INFO]: UUID of player Arch3rMC is 703b40eb-264b-4ed4-9c4d-705716c06727
+[16:41:49] [Server thread/INFO]: Arch3rMC[/94.255.133.255:14617] logged in with entity id 403 at (-630.830643048363, 140.875, -51.50969109999578)
+[16:41:49] [Server thread/INFO]: Arch3rMC joined the game
+[16:42:59] [User Authenticator #3/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
+[16:42:59] [Server thread/INFO]: DrGurkis[/217.210.136.213:57250] logged in with entity id 767 at (-2207.622090184811, 64.875, 841.4199765442713)
+[16:42:59] [Server thread/INFO]: DrGurkis joined the game
+[16:43:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
+[16:43:47] [Server thread/INFO]: Arch3rMC was shot by Skeleton
+[16:45:28] [User Authenticator #4/INFO]: UUID of player ZofiaaLu is d5f0f14c-f9c0-49e4-bb9c-2dc9362d9cfc
+[16:45:29] [Server thread/INFO]: ZofiaaLu[/95.192.59.177:63479] logged in with entity id 2675 at (-1909.4940167539964, 76.0, 3341.300000011921)
+[16:45:29] [Server thread/INFO]: ZofiaaLu joined the game
+[16:45:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2552ms or 51 ticks behind
+[16:46:31] [User Authenticator #5/INFO]: UUID of player Liam0080 is ea668662-c242-48be-b3fc-fa90b9bf776a
+[16:46:32] [Server thread/INFO]: Liam0080[/85.226.143.101:52636] logged in with entity id 3583 at (-3490.8489463378205, 227.0, -4609.775262595968)
+[16:46:32] [Server thread/INFO]: Liam0080 joined the game
+[16:46:33] [Server thread/WARN]: ZofiaaLu moved too quickly! 9.911181722248102,-1.0,1.4356671517739414
+[16:46:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[16:46:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4396ms or 87 ticks behind
+[16:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[16:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5429ms or 108 ticks behind
+[16:51:32] [Server thread/WARN]: DrGurkis moved too quickly! 12.391033880761825,0.9386937971681562,13.232901761010908
+[16:51:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6579ms or 131 ticks behind
+[16:51:50] [Server thread/WARN]: DrGurkis moved too quickly! -6.88981638756627,2.143915257156138,16.521408509992852
+[16:52:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13923ms or 278 ticks behind
+[16:52:11] [Server thread/WARN]: DrGurkis moved too quickly! 3.484894806568491,-7.513487427969707,15.802625236914082
+[16:52:18] [User Authenticator #6/INFO]: UUID of player Theodor_123 is 24b2fa83-e263-4a16-9190-18a3e4578ad2
+[16:52:19] [Server thread/INFO]: Theodor_123[/192.168.10.228:56058] logged in with entity id 11518 at (-2204.300000011921, 64.0, 844.8569303655779)
+[16:52:19] [Server thread/INFO]: Theodor_123 joined the game
+[16:52:23] [Server thread/WARN]: DrGurkis moved too quickly! -6.238268341017601,-5.343414199509965,-15.564263094591297
+[16:52:46] [Server thread/INFO]: KiwiLord lost connection: Disconnected
+[16:52:46] [Server thread/INFO]: KiwiLord left the game
+[16:52:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26065ms or 521 ticks behind
+[16:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8754ms or 175 ticks behind
+[16:53:24] [Server thread/INFO]: Theodor_123 lost connection: Disconnected
+[16:53:24] [Server thread/INFO]: Theodor_123 left the game
+[16:53:25] [Server thread/WARN]: handleDisconnection() called twice
+[16:54:13] [User Authenticator #7/INFO]: UUID of player KiwiLord is 8e5233c2-ab1f-4991-85e8-e9831a7f5307
+[16:54:13] [Server thread/INFO]: KiwiLord[/213.103.159.14:51712] logged in with entity id 13867 at (410.933555856249, 70.0, 78.49512436099653)
+[16:54:13] [Server thread/INFO]: KiwiLord joined the game
+[16:54:15] [Server thread/WARN]: Liam0080 moved too quickly! 2.0960689672233457,-2.2475792392252316,-17.615406594204615
+[16:54:21] [Server thread/INFO]: <KiwiLord> hallå
+[16:54:26] [Server thread/INFO]: <ZofiaaLu> hej
+[16:54:35] [Server thread/INFO]: DrGurkis lost connection: Disconnected
+[16:54:35] [Server thread/INFO]: DrGurkis left the game
+[16:54:58] [User Authenticator #8/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
+[16:54:59] [Server thread/INFO]: DrGurkis[/217.210.136.213:51990] logged in with entity id 14804 at (-2071.4932534320506, 67.0, 1306.3328313720824)
+[16:54:59] [Server thread/INFO]: DrGurkis joined the game
+[16:55:00] [Server thread/WARN]: ZofiaaLu moved too quickly! 0.4492785291534176,-0.6044241013266856,-10.41077815643871
+[16:55:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2072, y=55, z=1471} gj{x=-2072, y=56, z=1471}
+[16:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16:55:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2071, y=61, z=1469} gj{x=-2071, y=59, z=1469}
+[16:57:28] [Server thread/WARN]: Liam0080 moved too quickly! -0.38188322231553684,10.53479793428032,0.0
+[17:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:03:30] [Server thread/INFO]: DrGurkis has completed the challenge [Hot Tourist Destinations]
+[17:03:32] [User Authenticator #9/INFO]: UUID of player Theodor_123 is 24b2fa83-e263-4a16-9190-18a3e4578ad2
+[17:03:32] [Server thread/INFO]: Theodor_123[/[0:0:0:0:0:0:0:1]:65457] logged in with entity id 25844 at (-2205.4144285603124, 64.0, 844.8569303655779)
+[17:03:32] [Server thread/INFO]: Theodor_123 joined the game
+[17:03:34] [Server thread/WARN]: Liam0080 moved too quickly! 14.621823388827124,10.142728207872906,2.408535065202159
+[17:03:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[17:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9907ms or 198 ticks behind
+[17:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[17:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[17:04:45] [Server thread/INFO]: Theodor_123 lost connection: Disconnected
+[17:04:45] [Server thread/INFO]: Theodor_123 left the game
+[17:05:43] [User Authenticator #10/INFO]: UUID of player Theodor_123 is 24b2fa83-e263-4a16-9190-18a3e4578ad2
+[17:05:43] [Server thread/INFO]: Theodor_123[/192.168.10.228:62638] logged in with entity id 29385 at (-2197.5102754825866, 71.0, 846.9367327156709)
+[17:05:43] [Server thread/INFO]: Theodor_123 joined the game
+[17:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:06:06] [Server thread/INFO]: Theodor_123 lost connection: Disconnected
+[17:06:06] [Server thread/INFO]: Theodor_123 left the game
+[17:06:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8935ms or 178 ticks behind
+[17:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17:07:17] [Server thread/INFO]: KiwiLord lost connection: Disconnected
+[17:07:17] [Server thread/INFO]: KiwiLord left the game
+[17:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[17:08:24] [User Authenticator #11/INFO]: UUID of player Theodor_123 is 24b2fa83-e263-4a16-9190-18a3e4578ad2
+[17:08:24] [Server thread/INFO]: Theodor_123[/192.168.10.228:62677] logged in with entity id 33284 at (-2196.931121130527, 71.0, 849.6480228280801)
+[17:08:24] [Server thread/INFO]: Theodor_123 joined the game
+[17:08:26] [Server thread/WARN]: Liam0080 moved too quickly! 0.0,10.465000184059107,0.0
+[17:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17:08:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4821ms or 96 ticks behind
+[17:09:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17:09:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
+[17:10:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[17:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:11:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3401ms or 68 ticks behind
+[17:11:12] [Server thread/INFO]: DrGurkis lost connection: Disconnected
+[17:11:12] [Server thread/INFO]: DrGurkis left the game
+[17:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3090ms or 61 ticks behind
+[17:11:25] [User Authenticator #12/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
+[17:11:25] [Server thread/INFO]: DrGurkis[/217.210.136.213:62549] logged in with entity id 37587 at (-458.0753471722086, 128.875, 242.950566814858)
+[17:11:25] [Server thread/INFO]: DrGurkis joined the game
+[17:11:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:11:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4918ms or 98 ticks behind
+[17:12:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6110ms or 122 ticks behind
+[17:12:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[17:13:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5119ms or 102 ticks behind
+[17:13:39] [Server thread/INFO]: DrGurkis lost connection: Disconnected
+[17:13:39] [Server thread/INFO]: DrGurkis left the game
+[17:13:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[17:14:05] [Server thread/INFO]: Villager bnw['Villager'/31515, l='ServerLevel[world]', x=-3487.46, y=93.00, z=-4610.30] died, message: 'Villager hit the ground too hard'
+[17:14:13] [User Authenticator #13/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
+[17:14:13] [Server thread/INFO]: DrGurkis[/217.210.136.213:60476] logged in with entity id 39817 at (-2222.450984486137, 64.0, 865.1333510746674)
+[17:14:13] [Server thread/INFO]: DrGurkis joined the game
+[17:14:16] [Server thread/INFO]: Liam0080 fell from a high place
+[17:14:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17:14:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[17:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:15:39] [User Authenticator #14/INFO]: UUID of player KiwiLord is 8e5233c2-ab1f-4991-85e8-e9831a7f5307
+[17:15:39] [Server thread/INFO]: KiwiLord[/213.103.159.14:65326] logged in with entity id 41374 at (442.0854754339659, 69.0, 86.4770227748011)
+[17:15:39] [Server thread/INFO]: KiwiLord joined the game
+[17:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[17:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4198ms or 83 ticks behind
+[17:16:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4540ms or 90 ticks behind
+[17:16:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
+[17:17:24] [Server thread/WARN]: Liam0080 moved too quickly! -12.557069462376798,1.7050227278496095,-13.117341693193438
+[17:17:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[17:18:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4158ms or 83 ticks behind
+[17:18:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2684ms or 53 ticks behind
+[17:19:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:21:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=496, y=88, z=60} gj{x=496, y=87, z=60}
+[17:21:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=496, y=88, z=60} gj{x=496, y=87, z=60}
+[17:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[17:21:31] [Server thread/INFO]: <Theodor_123> server stängs ner för uppgradering
+[17:21:32] [Server thread/INFO]: <KiwiLord> alla lämna
+[17:21:34] [Server thread/INFO]: Liam0080 lost connection: Disconnected
+[17:21:34] [Server thread/INFO]: Liam0080 left the game
+[17:21:34] [Server thread/INFO]: <Arch3rMC> okej
+[17:21:35] [Server thread/INFO]: Arch3rMC lost connection: Disconnected
+[17:21:35] [Server thread/INFO]: Arch3rMC left the game
+[17:21:35] [Server thread/INFO]: ZofiaaLu lost connection: Disconnected
+[17:21:35] [Server thread/INFO]: ZofiaaLu left the game
+[17:21:36] [Server thread/INFO]: DrGurkis lost connection: Disconnected
+[17:21:36] [Server thread/INFO]: DrGurkis left the game
+[17:21:37] [Server thread/INFO]: Theodor_123 lost connection: Disconnected
+[17:21:37] [Server thread/INFO]: Theodor_123 left the game
+[17:21:37] [Server thread/INFO]: KiwiLord lost connection: Disconnected
+[17:21:37] [Server thread/INFO]: KiwiLord left the game
+[17:21:43] [Server thread/INFO]: Stopping the server
+[17:21:43] [Server thread/INFO]: Stopping server
+[17:21:43] [Server thread/INFO]: Saving players
+[17:21:43] [Server thread/INFO]: Saving worlds
+[17:21:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:21:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:21:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:21:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:21:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:21:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:21:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
