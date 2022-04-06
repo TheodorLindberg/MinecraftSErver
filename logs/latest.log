@@ -1,198 +1,563 @@
-[16:41:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:41:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:41:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:41:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:41:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:41:06] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:41:07] [Worker-Main-4/INFO]: Loaded 7 recipes
-[16:41:08] [Worker-Main-4/INFO]: Loaded 1141 advancements
-[16:41:10] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[16:41:10] [Server thread/INFO]: Loading properties
-[16:41:10] [Server thread/INFO]: Default game type: SURVIVAL
-[16:41:10] [Server thread/INFO]: Generating keypair
-[16:41:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:41:10] [Server thread/INFO]: Using default channel type
-[16:41:11] [Server thread/INFO]: Preparing level "world"
-[16:41:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:41:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:41:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:41:14] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:41:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:41:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:41:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:41:15] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:41:15] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:41:16] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:41:16] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:41:17] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:41:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:41:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:41:18] [Worker-Main-6/INFO]: Preparing spawn area: 1%
-[16:41:19] [Worker-Main-6/INFO]: Preparing spawn area: 2%
-[16:41:19] [Worker-Main-5/INFO]: Preparing spawn area: 2%
-[16:41:20] [Worker-Main-6/INFO]: Preparing spawn area: 2%
-[16:41:20] [Worker-Main-6/INFO]: Preparing spawn area: 9%
-[16:41:21] [Worker-Main-5/INFO]: Preparing spawn area: 15%
-[16:41:21] [Worker-Main-6/INFO]: Preparing spawn area: 42%
-[16:41:22] [Worker-Main-5/INFO]: Preparing spawn area: 53%
-[16:41:22] [Worker-Main-6/INFO]: Preparing spawn area: 78%
-[16:41:25] [Server thread/INFO]: Time elapsed: 13413 ms
-[16:41:25] [Server thread/INFO]: Done (14.001s)! For help, type "help"
-[16:41:32] [User Authenticator #1/INFO]: UUID of player KiwiLord is 8e5233c2-ab1f-4991-85e8-e9831a7f5307
-[16:41:33] [Server thread/INFO]: KiwiLord[/213.103.159.14:58252] logged in with entity id 100 at (408.2575414175489, 57.0, 83.18736711963967)
-[16:41:33] [Server thread/INFO]: KiwiLord joined the game
-[16:41:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
-[16:41:49] [User Authenticator #2/INFO]: UUID of player Arch3rMC is 703b40eb-264b-4ed4-9c4d-705716c06727
-[16:41:49] [Server thread/INFO]: Arch3rMC[/94.255.133.255:14617] logged in with entity id 403 at (-630.830643048363, 140.875, -51.50969109999578)
-[16:41:49] [Server thread/INFO]: Arch3rMC joined the game
-[16:42:59] [User Authenticator #3/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
-[16:42:59] [Server thread/INFO]: DrGurkis[/217.210.136.213:57250] logged in with entity id 767 at (-2207.622090184811, 64.875, 841.4199765442713)
-[16:42:59] [Server thread/INFO]: DrGurkis joined the game
-[16:43:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
-[16:43:47] [Server thread/INFO]: Arch3rMC was shot by Skeleton
-[16:45:28] [User Authenticator #4/INFO]: UUID of player ZofiaaLu is d5f0f14c-f9c0-49e4-bb9c-2dc9362d9cfc
-[16:45:29] [Server thread/INFO]: ZofiaaLu[/95.192.59.177:63479] logged in with entity id 2675 at (-1909.4940167539964, 76.0, 3341.300000011921)
-[16:45:29] [Server thread/INFO]: ZofiaaLu joined the game
-[16:45:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2552ms or 51 ticks behind
-[16:46:31] [User Authenticator #5/INFO]: UUID of player Liam0080 is ea668662-c242-48be-b3fc-fa90b9bf776a
-[16:46:32] [Server thread/INFO]: Liam0080[/85.226.143.101:52636] logged in with entity id 3583 at (-3490.8489463378205, 227.0, -4609.775262595968)
-[16:46:32] [Server thread/INFO]: Liam0080 joined the game
-[16:46:33] [Server thread/WARN]: ZofiaaLu moved too quickly! 9.911181722248102,-1.0,1.4356671517739414
-[16:46:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
-[16:46:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4396ms or 87 ticks behind
-[16:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[16:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[16:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5429ms or 108 ticks behind
-[16:51:32] [Server thread/WARN]: DrGurkis moved too quickly! 12.391033880761825,0.9386937971681562,13.232901761010908
-[16:51:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6579ms or 131 ticks behind
-[16:51:50] [Server thread/WARN]: DrGurkis moved too quickly! -6.88981638756627,2.143915257156138,16.521408509992852
-[16:52:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13923ms or 278 ticks behind
-[16:52:11] [Server thread/WARN]: DrGurkis moved too quickly! 3.484894806568491,-7.513487427969707,15.802625236914082
-[16:52:18] [User Authenticator #6/INFO]: UUID of player Theodor_123 is 24b2fa83-e263-4a16-9190-18a3e4578ad2
-[16:52:19] [Server thread/INFO]: Theodor_123[/192.168.10.228:56058] logged in with entity id 11518 at (-2204.300000011921, 64.0, 844.8569303655779)
-[16:52:19] [Server thread/INFO]: Theodor_123 joined the game
-[16:52:23] [Server thread/WARN]: DrGurkis moved too quickly! -6.238268341017601,-5.343414199509965,-15.564263094591297
-[16:52:46] [Server thread/INFO]: KiwiLord lost connection: Disconnected
-[16:52:46] [Server thread/INFO]: KiwiLord left the game
-[16:52:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26065ms or 521 ticks behind
-[16:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8754ms or 175 ticks behind
-[16:53:24] [Server thread/INFO]: Theodor_123 lost connection: Disconnected
-[16:53:24] [Server thread/INFO]: Theodor_123 left the game
-[16:53:25] [Server thread/WARN]: handleDisconnection() called twice
-[16:54:13] [User Authenticator #7/INFO]: UUID of player KiwiLord is 8e5233c2-ab1f-4991-85e8-e9831a7f5307
-[16:54:13] [Server thread/INFO]: KiwiLord[/213.103.159.14:51712] logged in with entity id 13867 at (410.933555856249, 70.0, 78.49512436099653)
-[16:54:13] [Server thread/INFO]: KiwiLord joined the game
-[16:54:15] [Server thread/WARN]: Liam0080 moved too quickly! 2.0960689672233457,-2.2475792392252316,-17.615406594204615
-[16:54:21] [Server thread/INFO]: <KiwiLord> hall�
-[16:54:26] [Server thread/INFO]: <ZofiaaLu> hej
-[16:54:35] [Server thread/INFO]: DrGurkis lost connection: Disconnected
-[16:54:35] [Server thread/INFO]: DrGurkis left the game
-[16:54:58] [User Authenticator #8/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
-[16:54:59] [Server thread/INFO]: DrGurkis[/217.210.136.213:51990] logged in with entity id 14804 at (-2071.4932534320506, 67.0, 1306.3328313720824)
-[16:54:59] [Server thread/INFO]: DrGurkis joined the game
-[16:55:00] [Server thread/WARN]: ZofiaaLu moved too quickly! 0.4492785291534176,-0.6044241013266856,-10.41077815643871
-[16:55:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2072, y=55, z=1471} gj{x=-2072, y=56, z=1471}
-[16:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[16:55:23] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2071, y=61, z=1469} gj{x=-2071, y=59, z=1469}
-[16:57:28] [Server thread/WARN]: Liam0080 moved too quickly! -0.38188322231553684,10.53479793428032,0.0
-[17:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[17:03:30] [Server thread/INFO]: DrGurkis has completed the challenge [Hot Tourist Destinations]
-[17:03:32] [User Authenticator #9/INFO]: UUID of player Theodor_123 is 24b2fa83-e263-4a16-9190-18a3e4578ad2
-[17:03:32] [Server thread/INFO]: Theodor_123[/[0:0:0:0:0:0:0:1]:65457] logged in with entity id 25844 at (-2205.4144285603124, 64.0, 844.8569303655779)
-[17:03:32] [Server thread/INFO]: Theodor_123 joined the game
-[17:03:34] [Server thread/WARN]: Liam0080 moved too quickly! 14.621823388827124,10.142728207872906,2.408535065202159
-[17:03:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
-[17:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9907ms or 198 ticks behind
-[17:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
-[17:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[17:04:45] [Server thread/INFO]: Theodor_123 lost connection: Disconnected
-[17:04:45] [Server thread/INFO]: Theodor_123 left the game
-[17:05:43] [User Authenticator #10/INFO]: UUID of player Theodor_123 is 24b2fa83-e263-4a16-9190-18a3e4578ad2
-[17:05:43] [Server thread/INFO]: Theodor_123[/192.168.10.228:62638] logged in with entity id 29385 at (-2197.5102754825866, 71.0, 846.9367327156709)
-[17:05:43] [Server thread/INFO]: Theodor_123 joined the game
-[17:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:06:06] [Server thread/INFO]: Theodor_123 lost connection: Disconnected
-[17:06:06] [Server thread/INFO]: Theodor_123 left the game
-[17:06:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8935ms or 178 ticks behind
-[17:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[17:07:17] [Server thread/INFO]: KiwiLord lost connection: Disconnected
-[17:07:17] [Server thread/INFO]: KiwiLord left the game
-[17:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[17:08:24] [User Authenticator #11/INFO]: UUID of player Theodor_123 is 24b2fa83-e263-4a16-9190-18a3e4578ad2
-[17:08:24] [Server thread/INFO]: Theodor_123[/192.168.10.228:62677] logged in with entity id 33284 at (-2196.931121130527, 71.0, 849.6480228280801)
-[17:08:24] [Server thread/INFO]: Theodor_123 joined the game
-[17:08:26] [Server thread/WARN]: Liam0080 moved too quickly! 0.0,10.465000184059107,0.0
-[17:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[17:08:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4821ms or 96 ticks behind
-[17:09:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[17:09:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
-[17:10:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[17:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:11:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3401ms or 68 ticks behind
-[17:11:12] [Server thread/INFO]: DrGurkis lost connection: Disconnected
-[17:11:12] [Server thread/INFO]: DrGurkis left the game
-[17:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3090ms or 61 ticks behind
-[17:11:25] [User Authenticator #12/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
-[17:11:25] [Server thread/INFO]: DrGurkis[/217.210.136.213:62549] logged in with entity id 37587 at (-458.0753471722086, 128.875, 242.950566814858)
-[17:11:25] [Server thread/INFO]: DrGurkis joined the game
-[17:11:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:11:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4918ms or 98 ticks behind
-[17:12:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6110ms or 122 ticks behind
-[17:12:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[17:13:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5119ms or 102 ticks behind
-[17:13:39] [Server thread/INFO]: DrGurkis lost connection: Disconnected
-[17:13:39] [Server thread/INFO]: DrGurkis left the game
-[17:13:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[17:14:05] [Server thread/INFO]: Villager bnw['Villager'/31515, l='ServerLevel[world]', x=-3487.46, y=93.00, z=-4610.30] died, message: 'Villager hit the ground too hard'
-[17:14:13] [User Authenticator #13/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
-[17:14:13] [Server thread/INFO]: DrGurkis[/217.210.136.213:60476] logged in with entity id 39817 at (-2222.450984486137, 64.0, 865.1333510746674)
-[17:14:13] [Server thread/INFO]: DrGurkis joined the game
-[17:14:16] [Server thread/INFO]: Liam0080 fell from a high place
-[17:14:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[17:14:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
-[17:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:15:39] [User Authenticator #14/INFO]: UUID of player KiwiLord is 8e5233c2-ab1f-4991-85e8-e9831a7f5307
-[17:15:39] [Server thread/INFO]: KiwiLord[/213.103.159.14:65326] logged in with entity id 41374 at (442.0854754339659, 69.0, 86.4770227748011)
-[17:15:39] [Server thread/INFO]: KiwiLord joined the game
-[17:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[17:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4198ms or 83 ticks behind
-[17:16:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4540ms or 90 ticks behind
-[17:16:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2396ms or 47 ticks behind
-[17:17:24] [Server thread/WARN]: Liam0080 moved too quickly! -12.557069462376798,1.7050227278496095,-13.117341693193438
-[17:17:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[17:18:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4158ms or 83 ticks behind
-[17:18:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[17:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2684ms or 53 ticks behind
-[17:19:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:21:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=496, y=88, z=60} gj{x=496, y=87, z=60}
-[17:21:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=496, y=88, z=60} gj{x=496, y=87, z=60}
-[17:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[17:21:31] [Server thread/INFO]: <Theodor_123> server st�ngs ner f�r uppgradering
-[17:21:32] [Server thread/INFO]: <KiwiLord> alla l�mna
-[17:21:34] [Server thread/INFO]: Liam0080 lost connection: Disconnected
-[17:21:34] [Server thread/INFO]: Liam0080 left the game
-[17:21:34] [Server thread/INFO]: <Arch3rMC> okej
-[17:21:35] [Server thread/INFO]: Arch3rMC lost connection: Disconnected
-[17:21:35] [Server thread/INFO]: Arch3rMC left the game
-[17:21:35] [Server thread/INFO]: ZofiaaLu lost connection: Disconnected
-[17:21:35] [Server thread/INFO]: ZofiaaLu left the game
-[17:21:36] [Server thread/INFO]: DrGurkis lost connection: Disconnected
-[17:21:36] [Server thread/INFO]: DrGurkis left the game
-[17:21:37] [Server thread/INFO]: Theodor_123 lost connection: Disconnected
-[17:21:37] [Server thread/INFO]: Theodor_123 left the game
-[17:21:37] [Server thread/INFO]: KiwiLord lost connection: Disconnected
-[17:21:37] [Server thread/INFO]: KiwiLord left the game
-[17:21:43] [Server thread/INFO]: Stopping the server
-[17:21:43] [Server thread/INFO]: Stopping server
-[17:21:43] [Server thread/INFO]: Saving players
-[17:21:43] [Server thread/INFO]: Saving worlds
-[17:21:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:21:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:21:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:21:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:21:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:21:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:21:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:17:53] [Server thread/INFO]: Arch3rMC lost connection: Timed out
+[07:17:53] [Server thread/INFO]: Arch3rMC left the game
+[07:17:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30448925ms or 608978 ticks behind
+[13:56:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21655910ms or 433118 ticks behind
+[14:03:19] [User Authenticator #30/INFO]: UUID of player Liam0080 is ea668662-c242-48be-b3fc-fa90b9bf776a
+[14:03:19] [Server thread/INFO]: Liam0080[/[0:0:0:0:0:0:0:1]:55840] logged in with entity id 492865 at (-3440.0524840877815, 162.75, -4418.568853772026)
+[14:03:19] [Server thread/INFO]: Liam0080 joined the game
+[14:07:34] [Server thread/WARN]: Liam0080 moved too quickly! 9.575327985510597,-2.258715234519542,14.405121487430392
+[14:07:52] [Server thread/WARN]: Liam0080 moved too quickly! -13.824901023603218,-2.558521279639592,11.110203366998556
+[14:24:21] [Server thread/WARN]: Liam0080 moved too quickly! 12.676409313576755,-2.5766638622593803,-12.677519083861739
+[14:25:11] [Server thread/WARN]: Liam0080 moved too quickly! 13.2912059337159,-2.3160713970420375,11.861185668756661
+[14:25:42] [Server thread/WARN]: Liam0080 moved too quickly! -17.32564726635701,-2.558229721913193,-0.998624461773943
+[14:25:48] [Server thread/WARN]: Liam0080 moved too quickly! -17.599578168084008,-1.5829588856516068,-0.13156279356826417
+[14:26:58] [Server thread/WARN]: Liam0080 moved too quickly! -17.287284409319057,-1.5014104822842853,2.230222833949938
+[14:27:08] [Server thread/WARN]: Liam0080 moved too quickly! -18.131994888877983,-1.0858648743770232,2.999631400768635
+[14:27:36] [Server thread/WARN]: Liam0080 moved too quickly! -11.740761626478047,3.3692559805153053,12.362245533131272
+[14:30:06] [Server thread/INFO]: Liam0080 has completed the challenge [Hero of the Village]
+[14:32:33] [Server thread/WARN]: Liam0080 moved too quickly! 6.877219240904651,16.140465039485633,4.475101295115564
+[14:32:36] [Server thread/WARN]: Liam0080 moved too quickly! -7.249915116080047,16.75611621038898,3.31198599167692
+[14:55:01] [User Authenticator #31/INFO]: UUID of player KiwiLord is 8e5233c2-ab1f-4991-85e8-e9831a7f5307
+[14:55:01] [Server thread/INFO]: KiwiLord[/[0:0:0:0:0:0:0:1]:57977] logged in with entity id 520627 at (410.607491886201, 57.0, 79.72974988485309)
+[14:55:01] [Server thread/INFO]: KiwiLord joined the game
+[14:55:09] [Server thread/INFO]: KiwiLord lost connection: Disconnected
+[14:55:09] [Server thread/INFO]: KiwiLord left the game
+[14:57:21] [Server thread/WARN]: Liam0080 moved too quickly! -5.692403027414002,-1.7943563964483218,16.790484840529643
+[14:57:29] [Server thread/WARN]: Liam0080 moved too quickly! 17.525749033130978,1.081507385030477,-0.21907568084907325
+[14:57:33] [Server thread/WARN]: Liam0080 moved too quickly! 16.94956037081556,-1.4297058653284012,-7.024466301649227
+[14:57:42] [Server thread/WARN]: Liam0080 moved too quickly! 14.03449796320183,-2.1749886020540004,10.174815277379366
+[14:58:03] [Server thread/WARN]: Liam0080 moved too quickly! 17.740173104964015,-1.864979871028737,2.611850183254319
+[14:58:25] [Server thread/WARN]: Liam0080 moved too quickly! 2.123086359582885,8.820096868193318,-15.706114209832322
+[14:59:15] [Server thread/WARN]: Liam0080 moved too quickly! -12.201921758773551,-2.4313544252086956,-13.22104776116339
+[14:59:44] [Server thread/WARN]: Liam0080 moved too quickly! 17.544969670460887,-2.47064955430956,-3.1431545318991994
+[14:59:47] [Server thread/WARN]: Liam0080 moved too quickly! 17.828612069089104,2.495208532497813,3.1793551049513553
+[14:59:49] [User Authenticator #32/INFO]: UUID of player KiwiLord is 8e5233c2-ab1f-4991-85e8-e9831a7f5307
+[14:59:49] [Server thread/INFO]: KiwiLord[/[0:0:0:0:0:0:0:1]:57320] logged in with entity id 526485 at (412.5953098993723, 57.0, 86.76249998807907)
+[14:59:49] [Server thread/INFO]: KiwiLord joined the game
+[14:59:55] [Server thread/INFO]: <Liam0080> hej
+[14:59:57] [Server thread/INFO]: <KiwiLord> tjoj tjo
+[15:00:14] [Server thread/WARN]: Liam0080 moved too quickly! -16.565644285287817,-0.2559736706511444,-7.035663853385813
+[15:00:17] [Server thread/WARN]: Liam0080 moved too quickly! -8.513417303690403,3.792874960020953,-15.577272497990634
+[15:00:30] [Server thread/WARN]: Liam0080 moved too quickly! -14.64331483154956,-2.163633975718028,-9.151648669067072
+[15:00:32] [Server thread/WARN]: Liam0080 moved too quickly! -16.93654683224304,-0.021469900051187096,-8.071005657410751
+[15:00:41] [Server thread/INFO]: <Liam0080> jag laggar
+[15:00:47] [Server thread/INFO]: <KiwiLord> konstigt
+[15:00:50] [Server thread/WARN]: Liam0080 moved too quickly! -18.170984774736553,-1.9122961677133503,0.8821141118269225
+[15:00:59] [Server thread/INFO]: <Liam0080> men jag flygger kanske därför
+[15:01:01] [Server thread/INFO]: <KiwiLord> aa
+[15:01:08] [Server thread/INFO]: <KiwiLord> servern säger liam moved to quickly
+[15:01:09] [Server thread/WARN]: Liam0080 moved too quickly! 9.131523309863951,2.416259740171995,-15.348588414348342
+[15:01:19] [Server thread/INFO]: <Liam0080> ok
+[15:01:25] [Server thread/INFO]: <KiwiLord> det erroret spammas haha
+[15:01:32] [Server thread/INFO]: <Liam0080> hahaha
+[15:02:04] [Server thread/WARN]: Liam0080 moved too quickly! -16.492771184636695,-1.5798800243281477,6.768051805750474
+[15:02:10] [Server thread/WARN]: Liam0080 moved too quickly! -16.460545900492434,-2.255021029248539,7.994128106485732
+[15:02:31] [Server thread/WARN]: Liam0080 moved too quickly! -4.9138662993427715,-2.9027642376023834,17.458554339948932
+[15:02:39] [Server thread/WARN]: Liam0080 moved too quickly! -17.497377942472212,-2.3288557879796628,3.672229600461833
+[15:03:12] [Server thread/WARN]: Liam0080 moved too quickly! 7.693060843098465,-2.3256242809814296,15.826489308054079
+[15:03:26] [Server thread/WARN]: Liam0080 moved too quickly! 5.693156907156208,-1.4627703402447167,16.971830755249357
+[15:03:33] [Server thread/WARN]: Liam0080 moved too quickly! 6.718786561934849,-2.521490027088632,15.964292602165187
+[15:03:45] [Server thread/WARN]: Liam0080 moved too quickly! 8.928181150642558,-2.5530082978875726,15.672730043183037
+[15:08:28] [Server thread/INFO]: KiwiLord lost connection: Disconnected
+[15:08:28] [Server thread/INFO]: KiwiLord left the game
+[15:08:55] [User Authenticator #33/INFO]: UUID of player KiwiLord is 8e5233c2-ab1f-4991-85e8-e9831a7f5307
+[15:08:55] [Server thread/INFO]: KiwiLord[/[0:0:0:0:0:0:0:1]:57557] logged in with entity id 536816 at (-16.362681701870738, 47.0, -61.69999998807907)
+[15:08:55] [Server thread/INFO]: KiwiLord joined the game
+[15:10:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-82, y=25, z=-62} gj{x=-83, y=22, z=-62}
+[15:12:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-102, y=19, z=-24} gj{x=-101, y=19, z=-24}
+[15:12:42] [Server thread/WARN]: Liam0080 moved too quickly! 17.06395467096553,5.527496930152267,-5.268710685718702
+[15:13:00] [Server thread/WARN]: Liam0080 moved too quickly! 17.054018984173354,-1.2297509053255453,-3.836991458082025
+[15:13:07] [Server thread/INFO]: <Liam0080> varför lämnar du hela tiden
+[15:13:14] [Server thread/INFO]: <KiwiLord> googlar grejer
+[15:13:22] [Server thread/INFO]: <Liam0080> ok
+[15:13:24] [Server thread/WARN]: Liam0080 moved too quickly! 18.525604628495216,-0.6805134480693766,-1.9049795896498836
+[15:13:27] [Server thread/WARN]: Liam0080 moved too quickly! 17.469435111147845,-1.8030371816029458,-2.973161102984932
+[15:13:54] [Server thread/WARN]: Liam0080 moved too quickly! 16.746545041273748,5.455975990347156,-1.7965033962054804
+[15:15:41] [Server thread/WARN]: Liam0080 moved too quickly! 0.6035319373995662,-1.9156641183625567,-17.2707760301264
+[15:15:46] [Server thread/WARN]: Liam0080 moved too quickly! -0.23778743945058523,-1.4256798572428693,-18.115966827264856
+[15:16:10] [Server thread/WARN]: Liam0080 moved too quickly! 9.231685394812303,-2.16882353118541,15.067025427694716
+[15:17:31] [Server thread/WARN]: Liam0080 moved too quickly! 0.45697883976208686,-1.9086776386266848,17.392292763880505
+[15:17:33] [Server thread/WARN]: Liam0080 moved too quickly! -0.8489679248796165,4.79636269567068,16.80024033456357
+[15:18:09] [User Authenticator #34/INFO]: UUID of player Arch3rMC is 703b40eb-264b-4ed4-9c4d-705716c06727
+[15:18:09] [Server thread/INFO]: Arch3rMC[/[0:0:0:0:0:0:0:1]:55870] logged in with entity id 547120 at (-630.5817557366408, 140.875, -51.48992085143365)
+[15:18:09] [Server thread/INFO]: Arch3rMC joined the game
+[15:18:18] [Server thread/INFO]: <Liam0080> hola señior
+[15:18:21] [Server thread/WARN]: Liam0080 moved too quickly! -18.344859341583287,-2.064234771589682,1.074087508995035
+[15:18:50] [Server thread/WARN]: Liam0080 moved too quickly! 13.979031469039,-1.0150048744411322,-10.589597977861558
+[15:19:47] [Server thread/WARN]: Liam0080 moved too quickly! -15.0484399131401,9.455483454975507,-2.4673411114463306
+[15:21:08] [Server thread/WARN]: Liam0080 moved too quickly! 18.205675150802563,-2.7805695462214572,-1.1888234398174973
+[15:21:13] [Server thread/WARN]: Liam0080 moved too quickly! 14.396583008988273,2.33829903977319,-9.723421802014855
+[15:24:42] [Server thread/WARN]: Liam0080 moved too quickly! -8.915651260119375,2.4601396031711147,5.178418425818563
+[15:25:45] [Server thread/WARN]: Liam0080 moved too quickly! -16.807623127431384,6.02458141144831,3.4237689497914516
+[15:25:47] [Server thread/WARN]: Liam0080 moved too quickly! -16.662204715155212,5.331965606580013,3.1467936344678265
+[15:25:52] [Server thread/WARN]: Liam0080 moved too quickly! -17.152848255382537,-0.5151750357869389,3.6691787011918677
+[15:25:57] [Server thread/WARN]: Liam0080 moved too quickly! -17.125121640684256,0.6132183739230754,3.663247680139534
+[15:26:02] [Server thread/WARN]: Liam0080 moved too quickly! -18.34008562762574,-0.6240466634532993,1.1073409411870898
+[15:26:07] [Server thread/WARN]: Liam0080 moved too quickly! -14.7232932138063,8.313404003585674,5.126435473006268
+[15:26:12] [Server thread/WARN]: Liam0080 moved too quickly! -14.27087040509366,-9.22360369105985,3.745698147371172
+[15:26:27] [Server thread/WARN]: Liam0080 moved too quickly! -15.916630608804098,6.931966368660881,2.815555595154251
+[15:26:37] [Server thread/WARN]: Liam0080 moved too quickly! -18.067474315419325,-0.2647196029933525,3.5377494086260413
+[15:26:40] [Server thread/WARN]: Liam0080 moved too quickly! -18.01175119172064,-2.029045089513062,4.5662673852482385
+[15:26:52] [Server thread/WARN]: Liam0080 moved too quickly! -13.717659685965174,-2.236786609658111,10.980425536377538
+[15:27:13] [User Authenticator #35/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
+[15:27:13] [Server thread/INFO]: DrGurkis[/[0:0:0:0:0:0:0:1]:56077] logged in with entity id 557179 at (247.35819203959193, 74.0, 495.6695622704578)
+[15:27:13] [Server thread/INFO]: DrGurkis joined the game
+[15:27:30] [Server thread/INFO]: <DrGurkis> hola
+[15:27:48] [Server thread/INFO]: <KiwiLord> tjena
+[15:27:58] [Server thread/WARN]: Liam0080 moved too quickly! -12.941155086158233,10.13411252091663,-7.9222173525677135
+[15:28:03] [Server thread/WARN]: Liam0080 moved too quickly! -15.919399073440673,4.466407524929664,-7.321532244158334
+[15:28:04] [Server thread/INFO]: <DrGurkis> har du betalningen????
+[15:28:07] [Server thread/INFO]: <KiwiLord> aa
+[15:28:08] [Server thread/WARN]: Liam0080 moved too quickly! -15.659401036190047,-2.6231771248492493,-8.50429243005874
+[15:28:13] [Server thread/WARN]: Liam0080 moved too quickly! -13.674998540242541,8.085428863094435,-8.330720929729978
+[15:28:16] [Server thread/INFO]: <DrGurkis> kommer snart
+[15:28:18] [Server thread/WARN]: Liam0080 moved too quickly! -16.46958619038105,0.13483712046962637,-6.576985249229438
+[15:31:23] [User Authenticator #36/INFO]: UUID of player ZofiaaLu is d5f0f14c-f9c0-49e4-bb9c-2dc9362d9cfc
+[15:31:23] [Server thread/INFO]: ZofiaaLu[/[0:0:0:0:0:0:0:1]:50299] logged in with entity id 562430 at (410.9692218481758, 70.0, 78.47629470020631)
+[15:31:23] [Server thread/INFO]: ZofiaaLu joined the game
+[15:33:08] [Server thread/WARN]: Liam0080 moved too quickly! -12.87380428812321,-10.98304162229536,-6.738437661266289
+[15:34:50] [User Authenticator #37/INFO]: UUID of player oscartuff1 is b67744e7-b156-4834-848b-fc6cb678d3ca
+[15:34:50] [Server thread/INFO]: oscartuff1[/[0:0:0:0:0:0:0:1]:50313] logged in with entity id 564878 at (107.05437908213155, 53.0, 523.5170446009147)
+[15:34:50] [Server thread/INFO]: oscartuff1 joined the game
+[15:34:57] [Server thread/WARN]: Liam0080 moved too quickly! 16.96721649443134,0.605123261092487,6.553683779424318
+[15:35:08] [Server thread/WARN]: Liam0080 moved too quickly! 15.962274383764452,-2.467765415819713,9.336926474573374
+[15:35:28] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=108, y=55, z=529} gj{x=108, y=54, z=530}
+[15:35:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=104, y=53, z=533} gj{x=104, y=53, z=532}
+[15:35:34] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=103, y=54, z=530} gj{x=102, y=53, z=530}
+[15:35:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=101, y=55, z=535} gj{x=99, y=55, z=533}
+[15:36:18] [Server thread/WARN]: Liam0080 moved too quickly! 17.28206474483602,2.695999766473875,-0.693152225273252
+[15:36:34] [Server thread/WARN]: Liam0080 moved too quickly! 18.2436436025272,-2.2618529313087663,-1.10853386431927
+[15:36:39] [Server thread/WARN]: Liam0080 moved too quickly! 17.317974173406093,3.086344180672512,-1.366669837048562
+[15:36:49] [Server thread/WARN]: Liam0080 moved too quickly! 17.19466494224463,0.17186661600692332,-2.5906604309572003
+[15:36:59] [Server thread/WARN]: Liam0080 moved too quickly! 18.04944206498476,-2.169839480115371,-2.6425449032368533
+[15:37:04] [Server thread/WARN]: Liam0080 moved too quickly! 18.206558966332864,-0.47884244461192793,-2.2546899391272746
+[15:37:09] [Server thread/WARN]: Liam0080 moved too quickly! 15.284320070719957,-0.4147359714910408,-10.11032615636077
+[15:37:12] [Server thread/WARN]: Liam0080 moved too quickly! 14.881273466064613,0.832754038956665,-10.308626666893133
+[15:37:14] [Server thread/WARN]: Liam0080 moved too quickly! 15.129697896400103,0.7524017410422061,-10.48028237482174
+[15:37:19] [Server thread/WARN]: Liam0080 moved too quickly! 14.983677132383264,5.703065685004503,-6.766535723728566
+[15:37:29] [Server thread/WARN]: Liam0080 moved too quickly! 17.205681942733804,-1.8623876734898488,-6.6928524329244965
+[15:38:05] [Server thread/WARN]: Liam0080 moved too quickly! 17.9453320539551,-0.9747693307124763,-2.3147930416953386
+[15:38:15] [Server thread/WARN]: Liam0080 moved too quickly! 18.227365016420663,2.727864596983565,-1.7899455387141643
+[15:38:20] [Server thread/WARN]: Liam0080 moved too quickly! 17.36352617134071,-0.7634435569297864,1.8010268608677507
+[15:38:25] [Server thread/WARN]: Liam0080 moved too quickly! 17.329763126022044,-1.3471965509263555,-3.6512961929129233
+[15:39:28] [Server thread/WARN]: Liam0080 moved too quickly! -18.076131816205816,-2.4125672628045294,2.4921359722939087
+[15:39:34] [Server thread/WARN]: Liam0080 moved too quickly! -17.871385111694508,-2.7770675368748385,-0.054760731342867075
+[15:39:39] [Server thread/WARN]: Liam0080 moved too quickly! -17.072634987688616,2.4697784016696147,-2.808238829596121
+[15:39:49] [Server thread/WARN]: Liam0080 moved too quickly! -11.094509166616263,-3.782657806983522,13.452999591663684
+[15:39:54] [Server thread/INFO]: Liam0080 lost connection: Disconnected
+[15:39:54] [Server thread/INFO]: Liam0080 left the game
+[15:40:02] [User Authenticator #38/INFO]: UUID of player Liam0080 is ea668662-c242-48be-b3fc-fa90b9bf776a
+[15:40:02] [Server thread/INFO]: Liam0080[/[0:0:0:0:0:0:0:1]:55753] logged in with entity id 576498 at (7499.855653592435, 66.0, -7318.438349129214)
+[15:40:02] [Server thread/INFO]: Liam0080 joined the game
+[15:40:21] [Server thread/WARN]: Liam0080 moved too quickly! -15.154014223295576,10.019129676477661,2.5240133077179507
+[15:40:24] [Server thread/WARN]: Liam0080 moved too quickly! -17.417819358418797,4.372336185205427,2.645200057707939
+[15:40:29] [Server thread/WARN]: Liam0080 moved too quickly! -17.476978517236375,3.06023818361939,2.0008678067977144
+[15:40:47] [Server thread/WARN]: Liam0080 moved too quickly! -16.16393467412786,-1.801056657737064,6.3230179332445005
+[15:40:56] [Server thread/WARN]: Liam0080 moved too quickly! -18.267099698061756,-1.7986258978941123,2.6203413836088885
+[15:42:30] [Server thread/INFO]: KiwiLord has completed the challenge [Cover Me in Debris]
+[15:42:35] [Server thread/INFO]: <DrGurkis> oooooooo
+[15:43:02] [Server thread/INFO]: DrGurkis lost connection: Disconnected
+[15:43:02] [Server thread/INFO]: DrGurkis left the game
+[15:43:08] [User Authenticator #39/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
+[15:43:08] [Server thread/INFO]: DrGurkis[/[0:0:0:0:0:0:0:1]:59379] logged in with entity id 583508 at (-2276.382857762277, 64.0, 782.6999999880791)
+[15:43:08] [Server thread/INFO]: DrGurkis joined the game
+[15:43:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:44:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[15:44:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3690ms or 73 ticks behind
+[15:44:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
+[15:45:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3250ms or 65 ticks behind
+[15:45:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[15:45:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[15:46:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
+[15:46:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[15:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[15:48:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[15:48:29] [Server thread/INFO]: KiwiLord has made the advancement [Sticky Situation]
+[15:48:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:49:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15:49:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:49:46] [Server thread/INFO]: oscartuff1 lost connection: Disconnected
+[15:49:46] [Server thread/INFO]: oscartuff1 left the game
+[15:51:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[15:52:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[15:53:09] [Server thread/INFO]: DrGurkis lost connection: Disconnected
+[15:53:09] [Server thread/INFO]: DrGurkis left the game
+[15:56:39] [User Authenticator #40/INFO]: UUID of player RasM00se is 4e843eb3-1ea0-4dff-a8f5-72ac954796c3
+[15:56:39] [Server thread/INFO]: RasM00se[/[0:0:0:0:0:0:0:1]:64790] logged in with entity id 623384 at (-1662.4010961533704, 71.0, 2957.5776298170276)
+[15:56:39] [Server thread/INFO]: RasM00se joined the game
+[15:59:34] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=499, y=94, z=112} gj{x=500, y=94, z=113}
+[16:08:16] [User Authenticator #41/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
+[16:08:16] [Server thread/INFO]: DrGurkis[/[0:0:0:0:0:0:0:1]:49231] logged in with entity id 645145 at (-2209.169288027273, 64.0, 846.1260168760965)
+[16:08:16] [Server thread/INFO]: DrGurkis joined the game
+[16:12:00] [Server thread/WARN]: KiwiLord moved too quickly! -15.582261339238357,-3.9973935228390616,-6.559761716617018
+[16:12:34] [Server thread/WARN]: Liam0080 moved too quickly! 11.389431977405309,-1.272838905516096,13.534366022233996
+[16:12:46] [Server thread/WARN]: Liam0080 moved too quickly! 9.927270458584701,-2.3996887718143682,14.50155804164973
+[16:12:49] [Server thread/WARN]: Liam0080 moved too quickly! 10.50933865111412,0.2001891996743268,14.59558470150688
+[16:12:49] [Server thread/WARN]: Liam0080 moved too quickly! 10.59646929774729,0.7388032135188496,14.863469542634732
+[16:17:05] [Server thread/WARN]: DrGurkis moved too quickly! -13.054099876509184,-1.9050397691532908,12.078089271807542
+[16:17:05] [Server thread/WARN]: Liam0080 moved too quickly! -16.85596865626772,0.3891774860373971,4.298693572177967
+[16:17:09] [Server thread/WARN]: Liam0080 moved too quickly! -17.794942159006382,-0.44951350417167646,2.691258224853925
+[16:18:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=494, y=96, z=117} gj{x=494, y=94, z=117}
+[16:23:56] [Server thread/WARN]: Liam0080 moved too quickly! -9.716570854809106,-1.7735078986582948,-14.305016587769558
+[16:27:04] [User Authenticator #42/INFO]: UUID of player oscartuff1 is b67744e7-b156-4834-848b-fc6cb678d3ca
+[16:27:04] [Server thread/INFO]: oscartuff1[/[0:0:0:0:0:0:0:1]:49970] logged in with entity id 669556 at (102.54073095186023, 56.53584062504456, 510.83028835008577)
+[16:27:04] [Server thread/INFO]: oscartuff1 joined the game
+[16:27:34] [Server thread/INFO]: oscartuff1 lost connection: Timed out
+[16:27:34] [Server thread/INFO]: oscartuff1 left the game
+[16:27:37] [User Authenticator #43/INFO]: UUID of player oscartuff1 is b67744e7-b156-4834-848b-fc6cb678d3ca
+[16:27:37] [Server thread/INFO]: oscartuff1[/[0:0:0:0:0:0:0:1]:49976] logged in with entity id 670098 at (102.54073095186023, 56.53584062504456, 510.83028835008577)
+[16:27:37] [Server thread/INFO]: oscartuff1 joined the game
+[16:38:02] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -11.83784143878492,0.0,0.0
+[16:38:02] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -14.246657276538485,0.0,0.0
+[16:38:02] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -16.668885888405384,0.0,0.0
+[16:38:02] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -19.104385810119425,0.0,0.0
+[16:38:02] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -21.553016682758084,0.0,0.0
+[16:38:02] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -24.014639497628707,0.0,0.0
+[16:38:02] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -26.489116577690794,0.0,0.0
+[16:38:02] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -28.976311354291568,0.0,0.0
+[16:38:02] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -31.476088787107358,0.0,0.0
+[16:38:02] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -33.98831493009956,0.0,0.0
+[16:38:02] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -36.51285713181909,0.0,0.0
+[16:38:02] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -39.04958384235192,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -32.15578376812053,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -34.71649030948291,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -37.28899451626236,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -10.404786335863179,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -13.034073831815618,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -15.674360858137675,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -18.32553114763516,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -20.987469339521454,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -23.66006120414019,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -26.343193429357285,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -29.036754035151233,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -31.740631938002167,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -26.66810112471842,0.0,0.0
+[16:38:03] [Server thread/WARN]: Boat (vehicle of Liam0080) moved too quickly! -29.39228478468192,0.0,0.0
+[16:39:33] [Server thread/WARN]: Liam0080 moved too quickly! -17.57703682583633,-2.2623734200538195,-0.7084793367801385
+[16:40:54] [Server thread/WARN]: Liam0080 moved too quickly! -6.535622376417905,-1.9639281035913427,-16.870476253466848
+[16:41:21] [Server thread/WARN]: Liam0080 moved too quickly! -11.826497629198002,-6.329140513035895,-12.48121623957411
+[16:44:11] [Server thread/WARN]: Liam0080 moved too quickly! 18.15149352331491,-0.6115626008925688,-2.2573398026152063
+[16:45:49] [Server thread/WARN]: Liam0080 moved too quickly! 11.118582301968218,13.597213845298725,-4.127249399909488
+[16:46:53] [Server thread/WARN]: Liam0080 moved too quickly! -10.212989378649127,-2.243079188014775,14.297802577748655
+[16:47:12] [Server thread/WARN]: Liam0080 moved too quickly! -4.151530167141118,-2.5002399995386355,17.752495754651285
+[16:48:41] [Server thread/INFO]: oscartuff1 was shot by Skeleton
+[16:50:06] [Server thread/WARN]: Liam0080 moved too quickly! 12.080508937332525,12.666896878409432,5.675805349319887
+[16:51:24] [Server thread/WARN]: Liam0080 moved too quickly! 17.981288543415758,-1.6330564089622754,-0.5984259867519199
+[16:51:37] [Server thread/WARN]: Liam0080 moved too quickly! 14.361255422870045,-2.3757892756172794,-10.716452998191414
+[16:51:43] [Server thread/WARN]: Liam0080 moved too quickly! 17.166983847641404,-2.9599529814509964,-1.6191418679419485
+[16:51:52] [Server thread/WARN]: Liam0080 moved too quickly! 16.815537903427185,-3.238802175508056,-6.546467456925711
+[16:52:31] [Server thread/WARN]: Liam0080 moved too quickly! 17.159862844101553,-3.824990717959281,-0.39994963362727276
+[16:52:34] [Server thread/WARN]: Liam0080 moved too quickly! 17.07384632861738,5.467660363844729,0.006383478989448577
+[16:52:47] [Server thread/WARN]: Liam0080 moved too quickly! 17.08419128952835,-2.669593717227528,4.760491558690376
+[16:53:14] [Server thread/WARN]: Liam0080 moved too quickly! 8.121759718239275,-2.0564146233456455,16.381848402929336
+[16:53:41] [Server thread/WARN]: Liam0080 moved too quickly! 1.1857098936682178,4.588729701280727,17.138831706839625
+[16:54:56] [Server thread/WARN]: Liam0080 moved too quickly! -11.933631641753834,-1.8319641504579067,-14.571106626123708
+[16:55:02] [Server thread/WARN]: Liam0080 moved too quickly! -15.148335870964843,-2.2309509162221275,-10.432170927774223
+[16:56:24] [Server thread/WARN]: Liam0080 moved too quickly! 14.231758112762236,9.90340112716325,5.103232673434832
+[16:57:47] [Server thread/WARN]: Liam0080 moved too quickly! 6.0692674173947125,-2.854572706353153,-16.884530642293612
+[16:59:58] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=414, y=40, z=125} gj{x=414, y=38, z=125}
+[17:00:19] [Server thread/WARN]: Liam0080 moved too quickly! -2.3352378917870737,18.305862262908533,-2.6460131473531874
+[17:01:00] [Server thread/WARN]: Liam0080 moved too quickly! 0.013916311462253361,-15.534714213396143,-0.05475198336898757
+[17:01:01] [Server thread/WARN]: Liam0080 moved too quickly! 1.3529813134948654,-10.806526110009003,-1.2354613494972
+[17:02:05] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=440, y=39, z=133} gj{x=441, y=41, z=133}
+[17:02:05] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=440, y=39, z=133} gj{x=441, y=41, z=133}
+[17:02:28] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=451, y=45, z=129} gj{x=454, y=45, z=129}
+[17:02:28] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=451, y=45, z=129} gj{x=454, y=45, z=129}
+[17:04:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=458, y=59, z=129} gj{x=462, y=58, z=129}
+[17:07:25] [Server thread/INFO]: DrGurkis was slain by Enderman
+[17:08:31] [Server thread/INFO]: RasM00se lost connection: Disconnected
+[17:08:31] [Server thread/INFO]: RasM00se left the game
+[17:08:31] [Server thread/WARN]: handleDisconnection() called twice
+[17:13:22] [User Authenticator #44/INFO]: UUID of player RasM00se is 4e843eb3-1ea0-4dff-a8f5-72ac954796c3
+[17:13:22] [Server thread/INFO]: RasM00se[/[0:0:0:0:0:0:0:1]:51081] logged in with entity id 736220 at (-1801.300000011921, 75.0, 3352.5850539589514)
+[17:13:22] [Server thread/INFO]: RasM00se joined the game
+[17:13:23] [Server thread/INFO]: DrGurkis has made the advancement [Hidden in the Depths]
+[17:16:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1562, y=267, z=-4504} gj{x=-1561, y=266, z=-4503}
+[17:16:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1562, y=267, z=-4504} gj{x=-1561, y=266, z=-4503}
+[17:16:37] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1562, y=267, z=-4504} gj{x=-1561, y=266, z=-4503}
+[17:18:23] [Server thread/INFO]: oscartuff1 lost connection: Disconnected
+[17:18:23] [Server thread/INFO]: oscartuff1 left the game
+[17:19:12] [Server thread/WARN]: Liam0080 moved too quickly! -6.3009298141589625,16.31750102459108,-1.4657745967551818
+[17:21:53] [Server thread/WARN]: Liam0080 moved too quickly! -0.3135623111938912,-14.133969169922409,-0.24748174897558783
+[17:21:58] [Server thread/WARN]: Liam0080 moved too quickly! 3.082754091244169,16.41425362217265,5.80578594259805
+[17:23:59] [User Authenticator #45/INFO]: UUID of player Theodor_123 is 24b2fa83-e263-4a16-9190-18a3e4578ad2
+[17:23:59] [Server thread/INFO]: Theodor_123[/[0:0:0:0:0:0:0:1]:51118] logged in with entity id 749496 at (322.9248576385539, 64.0, 281.4652635588899)
+[17:23:59] [Server thread/INFO]: Theodor_123 joined the game
+[17:24:13] [Server thread/WARN]: KiwiLord moved too quickly! 7.793607153862695,-93.0,6.939468648913589
+[17:24:41] [Server thread/WARN]: Liam0080 moved too quickly! -0.6877315399060535,-10.572894103966632,0.8680071755661629
+[17:25:09] [Server thread/WARN]: KiwiLord moved too quickly! -7.276349133842473,-9.0,-4.902512022893916
+[17:25:34] [Server thread/INFO]: Theodor_123 was blown up by Creeper
+[17:26:54] [Server thread/WARN]: Liam0080 moved too quickly! -5.816411315609912,16.735213235288484,1.8647621797299507
+[17:26:58] [Server thread/WARN]: Liam0080 moved too quickly! 1.168629442796373,17.20679287311293,-6.726436338798521
+[17:27:01] [Server thread/WARN]: Liam0080 moved too quickly! 4.682687516519536,16.70186056516576,-3.054373443640543
+[17:28:03] [Server thread/INFO]: <Theodor_123> Kalle är du inne?
+[17:29:37] [Server thread/WARN]: KiwiLord moved too quickly! -5.551585981505184,-47.0,6.482435424374216
+[17:30:10] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=247, y=76, z=535} gj{x=247, y=73, z=534}
+[17:30:12] [Server thread/INFO]: DrGurkis lost connection: Disconnected
+[17:30:12] [Server thread/INFO]: DrGurkis left the game
+[17:30:16] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=247, y=72, z=538} gj{x=249, y=73, z=537}
+[17:30:18] [Server thread/WARN]: Liam0080 moved too quickly! -17.41865309384366,-2.7724778041492755,-0.8668463595895446
+[17:30:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=245, y=72, z=534} gj{x=246, y=71, z=535}
+[17:32:34] [Server thread/WARN]: Liam0080 moved too quickly! 5.9561623364675995,1.3232297139009006,17.16868407456201
+[17:33:16] [Server thread/WARN]: Liam0080 moved wrongly!
+[17:33:28] [Server thread/WARN]: Liam0080 moved too quickly! 16.1662961245232,-7.309368023513571,-0.7517198546414647
+[17:34:38] [Server thread/WARN]: KiwiLord moved too quickly! -8.148532816573606,2.017850039624662,-15.765087505944393
+[17:37:44] [Server thread/INFO]: Theodor_123 has reached the goal [Beaconator]
+[17:37:44] [Server thread/INFO]: Theodor_123 has made the advancement [Bring Home the Beacon]
+[17:37:44] [Server thread/INFO]: Liam0080 has reached the goal [Beaconator]
+[17:38:16] [User Authenticator #46/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
+[17:38:17] [Server thread/INFO]: DrGurkis[/[0:0:0:0:0:0:0:1]:51161] logged in with entity id 770343 at (-317.30000001192093, 26.0, 128.69744178695922)
+[17:38:17] [Server thread/INFO]: DrGurkis joined the game
+[17:39:23] [Server thread/WARN]: KiwiLord moved too quickly! -4.874781638617151,-92.0,-7.116177985285503
+[17:39:42] [Server thread/WARN]: KiwiLord moved too quickly! 8.292249252890088,-4.1764184614465165,16.052903850647454
+[17:40:54] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=263, y=67, z=516} gj{x=260, y=67, z=515}
+[17:43:26] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=225, y=69, z=517} gj{x=225, y=69, z=515}
+[17:43:26] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=225, y=69, z=517} gj{x=225, y=69, z=515}
+[17:43:26] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=225, y=69, z=517} gj{x=225, y=69, z=515}
+[17:43:26] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=225, y=69, z=517} gj{x=225, y=69, z=515}
+[17:43:26] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=225, y=69, z=517} gj{x=225, y=69, z=515}
+[17:43:50] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=227, y=68, z=517} gj{x=227, y=68, z=516}
+[17:44:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:11] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=231, y=68, z=512} gj{x=231, y=67, z=513}
+[17:44:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=225, y=65, z=527} gj{x=225, y=64, z=526}
+[17:44:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=236, y=68, z=517} gj{x=236, y=67, z=516}
+[17:44:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=236, y=68, z=517} gj{x=236, y=67, z=516}
+[17:44:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=236, y=68, z=517} gj{x=236, y=67, z=516}
+[17:44:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=236, y=68, z=517} gj{x=236, y=67, z=516}
+[17:44:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=236, y=68, z=517} gj{x=236, y=67, z=516}
+[17:44:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=236, y=68, z=517} gj{x=236, y=67, z=516}
+[17:44:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=236, y=68, z=517} gj{x=236, y=67, z=516}
+[17:44:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=236, y=68, z=517} gj{x=236, y=67, z=516}
+[17:44:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=236, y=68, z=517} gj{x=236, y=67, z=516}
+[17:44:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=236, y=68, z=517} gj{x=236, y=67, z=516}
+[17:45:05] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=229, y=64, z=520} gj{x=230, y=65, z=520}
+[17:45:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=228, y=65, z=518} gj{x=228, y=64, z=517}
+[17:45:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=228, y=65, z=518} gj{x=228, y=64, z=517}
+[17:45:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=228, y=65, z=518} gj{x=228, y=64, z=517}
+[17:45:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=228, y=65, z=518} gj{x=228, y=64, z=517}
+[17:45:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=228, y=65, z=518} gj{x=228, y=64, z=517}
+[17:45:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=228, y=65, z=518} gj{x=228, y=64, z=517}
+[17:45:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=228, y=65, z=518} gj{x=228, y=64, z=517}
+[17:45:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=228, y=65, z=518} gj{x=228, y=64, z=517}
+[17:45:36] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=234, y=66, z=512} gj{x=232, y=66, z=511}
+[17:46:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=239, y=65, z=527} gj{x=240, y=64, z=527}
+[17:46:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=239, y=65, z=527} gj{x=240, y=64, z=527}
+[17:46:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=239, y=65, z=527} gj{x=240, y=64, z=527}
+[17:46:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=239, y=65, z=527} gj{x=240, y=64, z=527}
+[17:46:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=239, y=65, z=527} gj{x=240, y=64, z=527}
+[17:46:52] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=224, y=62, z=513} gj{x=228, y=61, z=513}
+[17:46:52] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=224, y=62, z=513} gj{x=228, y=61, z=513}
+[17:55:42] [Server thread/WARN]: DrGurkis moved wrongly!
+[17:57:21] [Server thread/WARN]: Liam0080 moved too quickly! -10.428288666583455,0.6217677663046857,-14.87959969354159
+[17:57:22] [Server thread/WARN]: Liam0080 moved too quickly! -11.072946363971084,-0.02731135931608719,-14.14886314530035
+[17:57:55] [Server thread/WARN]: Liam0080 moved too quickly! -15.2942673193279,4.14145617882042,8.208306005207191
+[17:57:57] [Server thread/WARN]: Liam0080 moved too quickly! -16.989096805530153,5.727739881402357,4.132297844564391
+[17:58:11] [Server thread/WARN]: Liam0080 moved too quickly! 17.053068502616497,3.101617766498748,5.69891535202828
+[17:59:18] [Server thread/WARN]: Liam0080 moved too quickly! 2.099992331881822,7.351345160149947,-16.01763701033201
+[17:59:45] [Server thread/WARN]: Liam0080 moved too quickly! 13.785752098210878,-1.7158700467038415,-11.473701752284285
+[17:59:54] [Server thread/WARN]: Liam0080 moved too quickly! 18.22842584056002,-1.7695466077558564,3.500075544045842
+[18:00:01] [Server thread/WARN]: Liam0080 moved too quickly! 17.671804122215235,-4.229058341284798,-2.322654580208507
+[18:01:48] [Server thread/WARN]: Liam0080 moved too quickly! -16.296945781102295,-1.0840205169554764,7.267470404090432
+[18:05:06] [Server thread/INFO]: KiwiLord lost connection: Disconnected
+[18:05:06] [Server thread/INFO]: KiwiLord left the game
+[18:05:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=238, y=71, z=482} gj{x=238, y=71, z=485}
+[18:10:54] [Server thread/WARN]: Liam0080 moved too quickly! 2.443231264079486,0.8389144925163237,-17.243503356288898
+[18:11:09] [Server thread/WARN]: Liam0080 moved too quickly! 13.073706778492806,-1.6282246812236991,-11.544016715256078
+[18:11:37] [Server thread/WARN]: Liam0080 moved too quickly! -15.816342983735694,1.3237583403529811,8.260257365707957
+[18:13:55] [Server thread/WARN]: Liam0080 moved too quickly! -16.631623481092902,3.264360885705983,-4.291571745655233
+[18:14:01] [Server thread/WARN]: Liam0080 moved too quickly! -18.295539853068476,-2.503673853302061,-0.4048606201332632
+[18:25:36] [Server thread/INFO]: Theodor_123 fell from a high place
+[18:26:31] [Server thread/INFO]: Theodor_123 was slain by Liam0080
+[18:30:45] [Server thread/WARN]: Liam0080 moved too quickly! -16.159074743444023,-6.808994024597553,-0.9565765710133007
+[18:34:58] [Server thread/INFO]: [Theodor_123: Set display slot list to show objective Kills]
+[18:35:03] [Server thread/WARN]: Liam0080 moved too quickly! -18.770898937810856,-1.809389869453014,-1.0286473316277238
+[18:35:50] [Server thread/WARN]: Liam0080 moved too quickly! -10.190748266388994,0.46029281585741444,-0.619755102065767
+[18:39:34] [Server thread/WARN]: Liam0080 moved too quickly! -11.806031990806048,-2.0104262523074112,-14.446541304335653
+[18:41:51] [Server thread/WARN]: Liam0080 moved too quickly! -13.909883205122242,10.123293983532633,2.7111331699052243
+[18:41:56] [Server thread/WARN]: Liam0080 moved too quickly! -15.183965692915535,8.686522594352198,6.7899960837612525
+[18:43:31] [Server thread/INFO]: ZofiaaLu lost connection: Disconnected
+[18:43:31] [Server thread/INFO]: ZofiaaLu left the game
+[18:44:07] [User Authenticator #47/INFO]: UUID of player KiwiLord is 8e5233c2-ab1f-4991-85e8-e9831a7f5307
+[18:44:07] [Server thread/INFO]: KiwiLord[/[0:0:0:0:0:0:0:1]:61322] logged in with entity id 847300 at (410.4939009863699, 57.0, 85.7873828169999)
+[18:44:07] [Server thread/INFO]: KiwiLord joined the game
+[18:44:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2700ms or 54 ticks behind
+[18:44:22] [Server thread/WARN]: Liam0080 moved too quickly! 17.233066420178602,-5.0807936949532575,0.6536669567931312
+[18:49:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-35, y=106, z=5} gj{x=-37, y=108, z=5}
+[18:49:42] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-32, y=104, z=5} gj{x=-34, y=105, z=5}
+[18:49:43] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-28, y=99, z=5} gj{x=-30, y=101, z=5}
+[18:50:57] [Server thread/INFO]: KiwiLord lost connection: Disconnected
+[18:50:57] [Server thread/INFO]: KiwiLord left the game
+[18:52:14] [Server thread/INFO]: Liam0080 lost connection: Disconnected
+[18:52:14] [Server thread/INFO]: Liam0080 left the game
+[18:52:33] [User Authenticator #48/INFO]: UUID of player KiwiLord is 8e5233c2-ab1f-4991-85e8-e9831a7f5307
+[18:52:33] [Server thread/INFO]: KiwiLord[/[0:0:0:0:0:0:0:1]:59956] logged in with entity id 856764 at (495.2989993169591, 98.0, 107.85047439618602)
+[18:52:33] [Server thread/INFO]: KiwiLord joined the game
+[18:52:41] [Server thread/INFO]: <Arch3rMC> någon som har bambu?
+[18:52:44] [Server thread/INFO]: <Arch3rMC> eller nvm
+[18:52:46] [Server thread/INFO]: <Arch3rMC> var inget
+[18:54:09] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-358, y=53, z=-365} gj{x=-358, y=54, z=-365}
+[18:54:29] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-352, y=53, z=-379} gj{x=-351, y=51, z=-381}
+[18:54:29] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-352, y=53, z=-379} gj{x=-351, y=51, z=-381}
+[18:55:20] [User Authenticator #49/INFO]: UUID of player ZofiaaLu is d5f0f14c-f9c0-49e4-bb9c-2dc9362d9cfc
+[18:55:20] [Server thread/INFO]: ZofiaaLu[/[0:0:0:0:0:0:0:1]:59972] logged in with entity id 860733 at (411.74157120850543, 69.0, 73.30000001192093)
+[18:55:20] [Server thread/INFO]: ZofiaaLu joined the game
+[18:59:00] [Server thread/INFO]: <Arch3rMC> -831 -997 sköldpaddor
+[18:59:07] [Server thread/INFO]: <RasM00se> ok tack
+[18:59:16] [Server thread/INFO]: <Arch3rMC> inte till dig >:()
+[18:59:22] [Server thread/INFO]: <Theodor_123> tack så mkt
+[18:59:23] [Server thread/INFO]: <RasM00se> ._.
+[18:59:27] [Server thread/INFO]: <Arch3rMC> men
+[18:59:27] [Server thread/INFO]: <RasM00se> bry mig inte
+[18:59:29] [Server thread/INFO]: <RasM00se> kmr ta
+[18:59:31] [Server thread/INFO]: <Arch3rMC> allemansrätten
+[18:59:31] [Server thread/INFO]: <Arch3rMC> ja
+[18:59:33] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:34] [Server thread/INFO]: <Arch3rMC> fritt fram
+[18:59:36] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:36] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:37] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:38] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:39] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:39] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:40] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:40] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:41] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:41] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:41] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:42] [Server thread/INFO]: <DrGurkis> ._.
+[18:59:56] [Server thread/INFO]: <Arch3rMC> ░░░░░░░░░░░░░░░░░░░░░░█████████
+[18:59:57] [Server thread/INFO]: <Arch3rMC> ░░███████░░░░░░░░░░███▒▒▒▒▒▒▒▒███
+[18:59:58] [Server thread/INFO]: <Arch3rMC> ░░█▒▒▒▒▒▒█░░░░░░░███▒▒▒▒▒▒▒▒▒▒▒▒▒███
+[18:59:58] [Server thread/INFO]: <Arch3rMC> ░░░█▒▒▒▒▒▒█░░░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██
+[18:59:59] [Server thread/INFO]: <Arch3rMC> ░░░░█▒▒▒▒▒█░░░██▒▒▒▒▒██▒▒▒▒▒▒██▒▒▒▒▒███
+[19:00:00] [Server thread/INFO]: <Arch3rMC> ░░░░░█▒▒▒█░░░█▒▒▒▒▒▒████▒▒▒▒████▒▒▒▒▒▒██
+[19:00:01] [Server thread/INFO]: <Arch3rMC> ░░░█████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██
+[19:00:02] [Server thread/INFO]: <Arch3rMC> ░░░█▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒██
+[19:00:02] [Server thread/INFO]: <Arch3rMC> ░██▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒██▒▒▒▒▒▒▒▒▒▒██▒▒▒▒██
+[19:00:03] [Server thread/INFO]: <Arch3rMC> ██▒▒▒███████████▒▒▒▒▒██▒▒▒▒▒▒▒▒██▒▒▒▒▒██
+[19:00:04] [Server thread/INFO]: <Arch3rMC> █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒████████▒▒▒▒▒▒▒██
+[19:00:05] [Server thread/INFO]: <Arch3rMC> ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██
+[19:00:06] [Server thread/INFO]: <Arch3rMC> ░█▒▒▒███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██
+[19:00:06] [Server thread/INFO]: <Arch3rMC> ░██▒▒▒▒▒▒▒▒▒▒████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█
+[19:00:07] [Server thread/INFO]: <Arch3rMC> ░░████████████░░░█████████████████
+[19:02:09] [User Authenticator #50/INFO]: UUID of player TheWizzard123 is e954f03d-8051-472e-96f6-ba87ed9c7940
+[19:02:09] [Server thread/INFO]: TheWizzard123[/[0:0:0:0:0:0:0:1]:60021] logged in with entity id 868977 at (426.5840067742201, 69.0, 82.30000001192093)
+[19:02:09] [Server thread/INFO]: TheWizzard123 joined the game
+[19:04:40] [Server thread/INFO]: Theodor_123 lost connection: Disconnected
+[19:04:40] [Server thread/INFO]: Theodor_123 left the game
+[19:06:53] [Server thread/INFO]: TheWizzard123 has made the advancement [Sweet Dreams]
+[19:14:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-22, y=93, z=5} gj{x=-19, y=91, z=5}
+[19:14:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-22, y=93, z=5} gj{x=-19, y=91, z=5}
+[19:15:21] [Server thread/INFO]: <Arch3rMC> någon
+[19:15:21] [Server thread/INFO]: <Arch3rMC> med
+[19:15:22] [Server thread/INFO]: <Arch3rMC> iron
+[19:15:24] [Server thread/INFO]: <Arch3rMC> till salu
+[19:15:26] [Server thread/INFO]: <DrGurkis> lite
+[19:15:29] [Server thread/INFO]: <DrGurkis> hur mycket
+[19:15:33] [Server thread/INFO]: <Arch3rMC> 2 stacks 1 dia
+[19:15:38] [Server thread/INFO]: <DrGurkis> visst
+[19:15:45] [Server thread/INFO]: <Arch3rMC> JAg är vid spawn
+[19:15:46] [Server thread/INFO]: <DrGurkis> kom till våran bas
+[19:15:48] [Server thread/INFO]: <Arch3rMC> vbart äör den
+[19:15:50] [Server thread/INFO]: <TheWizzard123> Jag säljer Liam, 1 copper timme
+[19:15:56] [Server thread/INFO]: <Arch3rMC> för dyrt
+[19:16:00] [Server thread/INFO]: <DrGurkis> lol
+[19:16:05] [Server thread/INFO]: <Arch3rMC> *vart är eran bas @DrGurkis
+[19:16:15] [Server thread/INFO]: <DrGurkis> gå in i nether roof
+[19:16:20] [Server thread/INFO]: <DrGurkis> kan visa
+[19:16:20] [Server thread/INFO]: <Arch3rMC> okej okej
+[19:16:59] [Server thread/WARN]: DrGurkis moved too quickly! -18.743178251511026,-1.8490757596126173,0.697520881807435
+[19:18:10] [Server thread/INFO]: <Arch3rMC> damn
+[19:18:11] [Server thread/INFO]: <Arch3rMC> mysigt
+[19:18:18] [Server thread/INFO]: <DrGurkis> lol
+[19:18:34] [Server thread/INFO]: <DrGurkis> :D
+[19:18:37] [Server thread/INFO]: <Arch3rMC> härligt att göra affärer med dig
+[19:18:42] [Server thread/INFO]: <DrGurkis> tack detsamma
+[19:19:33] [Server thread/WARN]: Boat (vehicle of Arch3rMC) moved too quickly! 11.993115189723701,0.0,-0.04150987336765155
+[19:19:33] [Server thread/WARN]: Boat (vehicle of Arch3rMC) moved too quickly! 14.425546486000865,0.0,-0.04150987336765155
+[19:20:31] [Server thread/INFO]: TheWizzard123 lost connection: Disconnected
+[19:20:31] [Server thread/INFO]: TheWizzard123 left the game
+[19:24:23] [Server thread/INFO]: Villager bnw['Villager'/878661, l='ServerLevel[world]', x=-1780.70, y=76.59, z=3302.50] died, message: 'Villager was slain by Zombie'
+[19:30:09] [Server thread/INFO]: ZofiaaLu lost connection: Disconnected
+[19:30:09] [Server thread/INFO]: ZofiaaLu left the game
+[19:30:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:30:26] [Server thread/INFO]: //locate /locate village_snowy<--[HERE]
+[19:30:43] [Server thread/INFO]: The nearest minecraft:igloo is at [576, ~, 16] (576 blocks away)
+[19:31:09] [Server thread/INFO]: The nearest minecraft:igloo is at [576, ~, 16] (576 blocks away)
+[19:32:00] [Server thread/INFO]: The nearest minecraft:monument is at [-1760, ~, 240] (1772 blocks away)
+[19:39:56] [Server thread/INFO]: KiwiLord lost connection: Disconnected
+[19:39:56] [Server thread/INFO]: KiwiLord left the game
+[20:31:16] [Server thread/INFO]: DrGurkis lost connection: Disconnected
+[20:31:16] [Server thread/INFO]: DrGurkis left the game
+[20:32:37] [User Authenticator #51/INFO]: UUID of player DrGurkis is 11cd942e-4339-4a71-8355-06c4def57e30
+[20:32:37] [Server thread/INFO]: DrGurkis[/[0:0:0:0:0:0:0:1]:51696] logged in with entity id 944506 at (-501.817373726473, 229.5, 262.73302675849305)
+[20:32:37] [Server thread/INFO]: DrGurkis joined the game
+[20:35:33] [Server thread/WARN]: DrGurkis moved wrongly!
+[20:46:29] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1769, y=89, z=3340} gj{x=-1749, y=88, z=3337}
+[20:48:41] [Server thread/INFO]: DrGurkis lost connection: Disconnected
+[20:48:41] [Server thread/INFO]: DrGurkis left the game
+[20:57:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-37, y=108, z=5} gj{x=-35, y=107, z=5}
+[20:57:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-37, y=108, z=5} gj{x=-35, y=107, z=5}
+[20:57:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-32, y=104, z=5} gj{x=-30, y=102, z=5}
+[20:57:43] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-17, y=88, z=5} gj{x=-16, y=89, z=5}
+[20:57:43] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-17, y=88, z=5} gj{x=-12, y=85, z=5}
+[21:09:53] [User Authenticator #52/INFO]: UUID of player KiwiLord is 8e5233c2-ab1f-4991-85e8-e9831a7f5307
+[21:09:53] [Server thread/INFO]: KiwiLord[/[0:0:0:0:0:0:0:1]:59241] logged in with entity id 966730 at (414.96230981250164, 58.0, 81.95974749585092)
+[21:09:53] [Server thread/INFO]: KiwiLord joined the game
+[21:57:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:56] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[21:57:57] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-234, y=100, z=373} gj{x=-235, y=100, z=373}
+[22:03:26] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1624, y=63, z=1824} gj{x=-1624, y=64, z=1824}
+[22:03:26] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1624, y=63, z=1824} gj{x=-1624, y=64, z=1824}
+[22:03:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1629, y=64, z=1830} gj{x=-1628, y=62, z=1829}
+[22:03:45] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1620, y=66, z=1832} gj{x=-1617, y=65, z=1831}
+[22:04:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1636, y=62, z=1825} gj{x=-1636, y=61, z=1825}
+[22:04:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1636, y=62, z=1825} gj{x=-1636, y=61, z=1825}
+[22:04:12] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1636, y=62, z=1825} gj{x=-1636, y=61, z=1825}
+[22:11:53] [Server thread/INFO]: <KiwiLord> jag behlver stänga ner servern
+[22:12:03] [Server thread/INFO]: <RasM00se> ok
+[22:12:05] [Server thread/INFO]: RasM00se lost connection: Disconnected
+[22:12:05] [Server thread/INFO]: RasM00se left the game
+[22:12:09] [Server thread/INFO]: <KiwiLord> den stängs om 10 sek
+[22:12:24] [Server thread/INFO]: KiwiLord lost connection: Disconnected
+[22:12:24] [Server thread/INFO]: KiwiLord left the game
+[22:12:36] [Server thread/INFO]: Stopping the server
+[22:12:36] [Server thread/INFO]: Stopping server
+[22:12:36] [Server thread/INFO]: Saving players
+[22:12:36] [Server thread/INFO]: Saving worlds
+[22:12:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:12:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:12:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:12:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:12:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:12:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:12:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

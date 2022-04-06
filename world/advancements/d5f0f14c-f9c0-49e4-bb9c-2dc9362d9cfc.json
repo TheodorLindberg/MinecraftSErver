@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-04-05 18:48:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2022-03-30 17:55:17 +0200"
@@ -266,6 +272,18 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2022-04-04 20:24:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2022-04-06 15:33:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-04-05 18:02:22 +0200"
     },
     "done": true
   },
@@ -503,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2022-04-06 19:18:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2022-03-31 19:53:35 +0200"
@@ -548,6 +572,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2022-03-28 19:39:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2022-04-05 17:45:57 +0200"
     },
     "done": true
   },
@@ -617,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2022-04-05 17:43:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-03-30 17:55:17 +0200"
@@ -637,11 +673,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2022-04-05 21:30:20 +0200",
       "minecraft:spider": "2022-04-05 14:57:06 +0200",
       "minecraft:zombie": "2022-03-27 21:17:13 +0200",
       "minecraft:drowned": "2022-03-31 17:58:33 +0200"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-04-05 17:45:57 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -751,6 +794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-04-05 17:45:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-03-30 17:55:19 +0200"
@@ -772,6 +821,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-03-28 20:08:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2022-04-05 17:45:57 +0200"
     },
     "done": true
   },
@@ -895,6 +950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-04-05 17:43:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2022-04-04 20:29:22 +0200"
@@ -976,6 +1037,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-04-04 20:09:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2022-04-05 17:45:57 +0200"
     },
     "done": true
   },
@@ -1111,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-04-05 17:45:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-03-28 19:51:30 +0200"
@@ -1132,6 +1205,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2022-03-31 19:53:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2022-04-05 17:45:57 +0200"
     },
     "done": true
   },
@@ -1321,6 +1400,7 @@
       "minecraft:beach": "2022-04-05 16:52:28 +0200",
       "minecraft:sparse_jungle": "2022-04-05 16:29:25 +0200",
       "minecraft:river": "2022-03-28 19:34:42 +0200",
+      "minecraft:lukewarm_ocean": "2022-04-05 17:58:00 +0200",
       "minecraft:dripstone_caves": "2022-03-28 20:01:57 +0200",
       "minecraft:snowy_taiga": "2022-04-01 17:15:27 +0200",
       "minecraft:forest": "2022-03-28 19:58:14 +0200",
@@ -1329,6 +1409,7 @@
       "minecraft:flower_forest": "2022-03-28 19:35:35 +0200",
       "minecraft:old_growth_birch_forest": "2022-04-04 20:06:56 +0200",
       "minecraft:meadow": "2022-03-28 19:49:47 +0200",
+      "minecraft:savanna": "2022-04-06 18:35:27 +0200",
       "minecraft:plains": "2022-03-27 21:11:06 +0200"
     },
     "done": false
@@ -1399,6 +1480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2022-04-05 17:45:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2022-03-30 17:55:17 +0200"
@@ -1441,6 +1528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2022-04-06 15:37:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2022-03-30 17:39:23 +0200"
@@ -1471,6 +1564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2022-04-06 17:05:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2022-04-03 21:14:19 +0200"
@@ -1489,6 +1588,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-04-05 17:45:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-03-31 19:52:41 +0200"
@@ -1504,6 +1609,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2022-04-03 21:14:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2022-04-06 19:18:12 +0200"
     },
     "done": true
   },
@@ -1660,6 +1771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2022-04-05 17:45:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-03-28 19:42:14 +0200"
@@ -1702,6 +1819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2022-04-06 19:18:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-04-04 20:31:59 +0200"
@@ -1720,6 +1843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2022-04-06 15:37:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2022-03-30 18:28:50 +0200"
@@ -1735,6 +1864,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-03-28 19:51:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-04-06 19:14:06 +0200"
     },
     "done": true
   },
@@ -1765,6 +1900,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2022-03-28 20:08:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2022-04-06 19:18:12 +0200"
     },
     "done": true
   },
@@ -1888,6 +2029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-04-05 17:45:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2022-03-31 17:42:59 +0200"
@@ -1938,6 +2085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-04-05 17:43:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2022-04-03 18:09:39 +0200"
@@ -1947,6 +2100,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-03-28 20:08:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2022-04-05 17:43:44 +0200"
     },
     "done": true
   },
@@ -2117,7 +2276,8 @@
       "minecraft:fox": "2022-04-04 19:03:51 +0200",
       "minecraft:pig": "2022-04-03 17:54:44 +0200",
       "minecraft:sheep": "2022-03-31 20:48:42 +0200",
-      "minecraft:cow": "2022-04-03 17:56:09 +0200"
+      "minecraft:cow": "2022-04-03 17:56:09 +0200",
+      "minecraft:bee": "2022-04-05 22:03:44 +0200"
     },
     "done": false
   },
@@ -2376,6 +2536,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-03-31 19:52:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-04-05 18:04:06 +0200"
     },
     "done": true
   },
@@ -2715,6 +2881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2022-04-05 17:43:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2022-03-30 20:21:55 +0200"
@@ -2799,6 +2971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2022-04-06 17:05:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-04-03 20:10:32 +0200"
@@ -2808,6 +2986,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2022-04-03 21:36:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2022-04-05 17:43:44 +0200"
     },
     "done": true
   },
@@ -2949,6 +3133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2022-04-05 17:43:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-03-28 20:08:14 +0200"
@@ -2985,6 +3175,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2022-04-05 18:13:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2022-04-06 15:33:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-03-27 21:20:08 +0200"
@@ -2994,6 +3196,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-03-30 20:21:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2022-04-05 17:43:44 +0200"
     },
     "done": true
   },
@@ -3024,6 +3232,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2022-03-31 20:48:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-04-05 17:43:44 +0200"
     },
     "done": true
   },
@@ -3072,6 +3286,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2022-04-01 19:03:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2022-04-06 19:18:12 +0200"
     },
     "done": true
   },
